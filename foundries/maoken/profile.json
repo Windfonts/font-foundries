@@ -1,14 +1,14 @@
 {
   "slug": "maoken",
   "name": "Maoken",
-  "nameEn": null,
+  "nameEn": "猫啃网",
   "type": "company",
-  "country": null,
-  "website": null,
-  "licensePolicyUrl": null,
+  "country": "CN",
+  "website": "https://www.maoken.com",
+  "licensePolicyUrl": "https://www.maoken.com/freefonts",
   "contactEmail": null,
-  "description": null,
-  "defaultLicenseType": null,
+  "description": "国内最大的免费商用字体收录与评测社区，汇集数百款免费可商用中文字体，提供字体下载、预览、评分和授权信息查询服务。",
+  "defaultLicenseType": "免费商用",
   "fonts": [
     "Mksjh",
     "Mkwfys",
@@ -17,5 +17,5 @@
     "Mkwxy"
   ],
   "logoUrl": null,
-  "established": null
+  "established": 2018
 }
