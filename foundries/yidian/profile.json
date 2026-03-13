@@ -1,14 +1,14 @@
 {
   "slug": "yidian",
   "name": "I.字坊 (一点字坊)",
-  "nameEn": null,
+  "nameEn": "一点字库（I.字坊）",
   "type": "company",
-  "country": null,
-  "website": null,
-  "licensePolicyUrl": null,
+  "country": "TW",
+  "website": "https://github.com/ichitenfont",
+  "licensePolicyUrl": "https://github.com/ichitenfont/I.Ming",
   "contactEmail": null,
-  "description": null,
-  "defaultLicenseType": null,
+  "description": "一点字库（I.字坊）是台湾开源字体项目，主要作品为一点明体（I.Ming），基于传承字形标准化推动繁体中文字体开发，采用IPA开源授权。",
+  "defaultLicenseType": "免费商用",
   "fonts": [
     "Kslmt"
   ],
