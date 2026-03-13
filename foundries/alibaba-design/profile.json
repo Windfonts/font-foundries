@@ -1,20 +1,20 @@
 {
   "slug": "alibaba-design",
-  "name": "阿里巴巴设计",
-  "nameEn": "Alibaba Design",
-  "vendorId": null,
+  "name": "Alibaba Design",
+  "nameEn": null,
   "type": "company",
-  "country": "中国",
-  "website": "https://design.alibaba.com",
+  "country": null,
+  "website": null,
   "licensePolicyUrl": null,
   "contactEmail": null,
-  "socialLinks": {
-    "weibo": "阿里巴巴设计",
-    "github": "https://github.com/alibaba"
-  },
-  "description": "阿里巴巴集团旗下设计团队，负责阿里系产品的视觉设计体系，旗下字体包括阿里妈妈系列、普惠体等，均免费商用。",
-  "defaultLicenseType": "免费商用",
-  "fonts": ["Almmsht", "Albbpht", "Almmdfdk", "Almmdlt"],
+  "description": null,
+  "defaultLicenseType": null,
+  "fonts": [
+    "Albbpht",
+    "Almmdfdk",
+    "Almmdlt",
+    "Almmsht"
+  ],
   "logoUrl": null,
-  "established": 2009
+  "established": null
 }
