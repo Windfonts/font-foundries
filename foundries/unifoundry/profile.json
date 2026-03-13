@@ -1,17 +1,17 @@
 {
   "slug": "unifoundry",
   "name": "Unifoundry",
-  "nameEn": null,
+  "nameEn": "Unifoundry",
   "type": "company",
-  "country": null,
-  "website": null,
-  "licensePolicyUrl": null,
+  "country": "US",
+  "website": "https://unifoundry.com",
+  "licensePolicyUrl": "https://unifoundry.com/unifont/",
   "contactEmail": null,
-  "description": null,
-  "defaultLicenseType": null,
+  "description": "Unifoundry是GNU Unifont项目的维护组织，GNU Unifont是覆盖Unicode基本多文种平面所有字符的位图字体，采用GPL+字体例外授权，免费商用。",
+  "defaultLicenseType": "免费商用",
   "fonts": [
     "Unfdzh"
   ],
   "logoUrl": null,
-  "established": null
+  "established": 1998
 }
