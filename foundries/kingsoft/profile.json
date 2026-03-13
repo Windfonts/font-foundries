@@ -1,0 +1,17 @@
+{
+  "slug": "kingsoft",
+  "name": "Kingsoft Cloud",
+  "nameEn": null,
+  "type": "company",
+  "country": null,
+  "website": null,
+  "licensePolicyUrl": null,
+  "contactEmail": null,
+  "description": null,
+  "defaultLicenseType": null,
+  "fonts": [
+    "Jsyjst"
+  ],
+  "logoUrl": null,
+  "established": null
+}
