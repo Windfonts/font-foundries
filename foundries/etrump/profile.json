@@ -1,14 +1,14 @@
 {
   "slug": "etrump",
   "name": "Shanghai Etrump Information Technology Co.",
-  "nameEn": null,
+  "nameEn": "一字一句",
   "type": "company",
-  "country": null,
+  "country": "CN",
   "website": null,
   "licensePolicyUrl": null,
   "contactEmail": null,
-  "description": null,
-  "defaultLicenseType": null,
+  "description": "Etrump/一字一句为字体设计者，相关信息极少，搜索结果被加密货币同名项目干扰，未找到字体相关官方信息。",
+  "defaultLicenseType": "联系授权",
   "fonts": [
     "Jnbbh"
   ],
