@@ -1,18 +1,18 @@
 {
   "slug": "wenquanyi",
   "name": "WenQuanYi (文泉驿)",
-  "nameEn": null,
+  "nameEn": "文泉驿",
   "type": "company",
-  "country": null,
-  "website": null,
-  "licensePolicyUrl": null,
+  "country": "CN",
+  "website": "http://wenq.org",
+  "licensePolicyUrl": "http://wenq.org/index.cgi?FontGuide",
   "contactEmail": null,
-  "description": null,
-  "defaultLicenseType": null,
+  "description": "2004年由房骞骞发起的开源中文字体项目，旨在为CJK字符创建高质量开源字体，产品已被Ubuntu、Fedora等主流Linux发行版收录。",
+  "defaultLicenseType": "免费商用",
   "fonts": [
     "Wqydkzh",
     "Wqyzh"
   ],
   "logoUrl": null,
-  "established": null
+  "established": 2004
 }
