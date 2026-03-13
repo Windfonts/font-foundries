@@ -1,14 +1,14 @@
 {
   "slug": "welai",
   "name": "Project Welai",
-  "nameEn": null,
+  "nameEn": "未来荧黑",
   "type": "company",
-  "country": null,
-  "website": null,
-  "licensePolicyUrl": null,
+  "country": "CN",
+  "website": "https://github.com/welai/glow-sans",
+  "licensePolicyUrl": "https://github.com/welai/glow-sans",
   "contactEmail": null,
-  "description": null,
-  "defaultLicenseType": null,
+  "description": "Welai是未来荧黑（Glow Sans）字体项目，基于思源黑体衍生的CJK字体家族，支持简繁中文和日文，采用SIL OFL 1.1开源授权，免费商用。",
+  "defaultLicenseType": "免费商用",
   "fonts": [
     "Hckht"
   ],
