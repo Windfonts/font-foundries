@@ -1,14 +1,14 @@
 {
   "slug": "atelier-anchor",
   "name": "atelierAnchor",
-  "nameEn": null,
+  "nameEn": "锚点工作室",
   "type": "company",
-  "country": null,
-  "website": null,
-  "licensePolicyUrl": null,
+  "country": "CN",
+  "website": "https://github.com/atelier-anchor",
+  "licensePolicyUrl": "https://github.com/atelier-anchor/smiley-sans",
   "contactEmail": null,
-  "description": null,
-  "defaultLicenseType": null,
+  "description": "锚点工作室（Atelier Anchor）是中国字体设计工作室，代表作品得意黑（Smiley Sans），在人文观感和几何特征中寻找平衡的中文黑体，采用SIL OFL 1.1开源授权。",
+  "defaultLicenseType": "免费商用",
   "fonts": [
     "Dyh"
   ],
