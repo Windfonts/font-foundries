@@ -1,14 +1,14 @@
 {
   "slug": "pinru",
   "name": "品如设计",
-  "nameEn": null,
+  "nameEn": "品如",
   "type": "company",
-  "country": null,
+  "country": "CN",
   "website": null,
-  "licensePolicyUrl": null,
+  "licensePolicyUrl": "https://www.maoken.com/freefonts/2930.html",
   "contactEmail": null,
-  "description": null,
-  "defaultLicenseType": null,
+  "description": "品如为独立字体设计者，推出品如手写体，一款永久免费可商用的中文手写字体，风格自然流畅。",
+  "defaultLicenseType": "免费商用",
   "fonts": [
     "Prsxt"
   ],
