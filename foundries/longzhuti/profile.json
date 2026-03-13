@@ -1,14 +1,14 @@
 {
   "slug": "longzhuti",
   "name": "LongZhuTi Project",
-  "nameEn": null,
+  "nameEn": "标小智",
   "type": "company",
-  "country": null,
-  "website": null,
-  "licensePolicyUrl": null,
+  "country": "CN",
+  "website": "https://www.logosc.cn",
+  "licensePolicyUrl": "https://www.logosc.cn/sheji/788",
   "contactEmail": null,
-  "description": null,
-  "defaultLicenseType": null,
+  "description": "标小智是在线Logo设计平台，推出标小智龙珠体（LogoSC LongZhuTi）作为第二款免费商用字体，动感活泼的卡通艺术风格。",
+  "defaultLicenseType": "免费商用",
   "fonts": [
     "Mkzyt"
   ],
