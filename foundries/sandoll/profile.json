@@ -1,17 +1,17 @@
 {
   "slug": "sandoll",
   "name": "Sandoll Inc.",
-  "nameEn": null,
+  "nameEn": "山돌（桑德尔）",
   "type": "company",
-  "country": null,
-  "website": null,
-  "licensePolicyUrl": null,
-  "contactEmail": null,
-  "description": null,
-  "defaultLicenseType": null,
+  "country": "KR",
+  "website": "https://www.sandoll.co.kr",
+  "licensePolicyUrl": "https://www.sandollcloud.com/",
+  "contactEmail": "cs@sandoll.co.kr",
+  "description": "韩国领先的字体设计公司，1984年成立，以设计Malgun Gothic（微软）、Nanum（Naver）、Apple SD Gothic Neo（苹果）等知名字体闻名，提供字体订阅、品牌定制等服务。",
+  "defaultLicenseType": "付费授权",
   "fonts": [
     "Ibmps"
   ],
   "logoUrl": null,
-  "established": null
+  "established": 1984
 }
