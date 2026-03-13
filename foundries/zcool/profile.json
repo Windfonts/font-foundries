@@ -1,18 +1,18 @@
 {
   "slug": "zcool",
   "name": "站酷字库",
-  "nameEn": null,
+  "nameEn": "站酷",
   "type": "company",
-  "country": null,
-  "website": null,
-  "licensePolicyUrl": null,
+  "country": "CN",
+  "website": "https://www.zcool.com.cn",
+  "licensePolicyUrl": "https://www.zcool.com.cn/special/zcoolfonts/",
   "contactEmail": null,
-  "description": null,
-  "defaultLicenseType": null,
+  "description": "中国最大的设计师社区平台，自2014年起发起公益造字活动，推出多款免费商用字体（站酷系列），同时提供付费字体授权服务。",
+  "defaultLicenseType": "免费商用",
   "fonts": [
     "Zkgdht",
     "Zkwyt"
   ],
   "logoUrl": null,
-  "established": null
+  "established": 2006
 }
