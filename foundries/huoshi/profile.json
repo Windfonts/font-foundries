@@ -1,14 +1,14 @@
 {
   "slug": "huoshi",
   "name": "hanghzou huoshi",
-  "nameEn": null,
+  "nameEn": "火柿",
   "type": "company",
-  "country": null,
+  "country": "CN",
   "website": null,
   "licensePolicyUrl": null,
   "contactEmail": null,
-  "description": null,
-  "defaultLicenseType": null,
+  "description": "火柿为字体设计者或工作室，相关信息极少，未找到以火柿为名的字体厂商或设计师的官方页面。",
+  "defaultLicenseType": "联系授权",
   "fonts": [
     "Xlfht"
   ],
