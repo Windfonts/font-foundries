@@ -1,14 +1,14 @@
 {
   "slug": "cjkfonts",
   "name": "cjkFonts",
-  "nameEn": null,
+  "nameEn": "CJK Fonts",
   "type": "company",
-  "country": null,
-  "website": null,
-  "licensePolicyUrl": null,
+  "country": "HK",
+  "website": "https://cjkfonts.io/",
+  "licensePolicyUrl": "https://cjkfonts.io/blog/cjkfonts_allseto",
   "contactEmail": null,
-  "description": null,
-  "defaultLicenseType": null,
+  "description": "CJK字体社区项目，利用深度学习AI技术智能造字，代表作cjkFonts全濑体基于濑户字体衍生，提供Web Font云端字型服务。",
+  "defaultLicenseType": "免费商用",
   "fonts": [
     "Sft"
   ],
