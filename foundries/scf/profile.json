@@ -1,14 +1,14 @@
 {
   "slug": "scf",
   "name": "SCF",
-  "nameEn": null,
+  "nameEn": "SCF",
   "type": "company",
-  "country": null,
+  "country": "CN",
   "website": null,
   "licensePolicyUrl": null,
   "contactEmail": null,
-  "description": null,
-  "defaultLicenseType": null,
+  "description": "SCF为字体设计者或工作室，相关信息极少，未找到以SCF为名的字体厂商官方页面。",
+  "defaultLicenseType": "联系授权",
   "fonts": [
     "Stfytz"
   ],
