@@ -1,17 +1,17 @@
 {
   "slug": "kingsoft",
   "name": "Kingsoft Cloud",
-  "nameEn": null,
+  "nameEn": "金山办公",
   "type": "company",
-  "country": null,
-  "website": null,
+  "country": "CN",
+  "website": "https://www.wps.cn",
   "licensePolicyUrl": null,
   "contactEmail": null,
-  "description": null,
-  "defaultLicenseType": null,
+  "description": "金山办公旗下WPS Office团队出品金山云技术体，由金山云UED设计团队历时四年制作，采用免费商用授权，风格年轻硬朗，含6763个汉字及804个符号。",
+  "defaultLicenseType": "免费商用",
   "fonts": [
     "Jsyjst"
   ],
   "logoUrl": null,
-  "established": null
+  "established": 1988
 }
