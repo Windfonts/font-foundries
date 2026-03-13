@@ -1,14 +1,14 @@
 {
   "slug": "alibaba-design",
   "name": "Alibaba Design",
-  "nameEn": null,
+  "nameEn": "阿里巴巴设计",
   "type": "company",
-  "country": null,
-  "website": null,
-  "licensePolicyUrl": null,
+  "country": "CN",
+  "website": "https://fonts.alibabagroup.com/",
+  "licensePolicyUrl": "https://fonts.alibabagroup.com/",
   "contactEmail": null,
-  "description": null,
-  "defaultLicenseType": null,
+  "description": "阿里巴巴集团设计团队出品阿里巴巴普惠体，定位为永久免费正版商用字体，覆盖中英文及多语种，广泛应用于商业设计场景。",
+  "defaultLicenseType": "免费商用",
   "fonts": [
     "Albbpht",
     "Almmdfdk",
@@ -16,5 +16,5 @@
     "Almmsht"
   ],
   "logoUrl": null,
-  "established": null
+  "established": 2019
 }
