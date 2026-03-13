@@ -1,14 +1,14 @@
 {
   "slug": "zitijia",
   "name": "字体家 X 黄凯桦",
-  "nameEn": null,
+  "nameEn": "字体家",
   "type": "company",
-  "country": null,
-  "website": null,
-  "licensePolicyUrl": null,
+  "country": "CN",
+  "website": "https://www.zitijia.com/",
+  "licensePolicyUrl": "https://www.zitijia.com/about/authorize.html",
   "contactEmail": null,
-  "description": null,
-  "defaultLicenseType": null,
+  "description": "字体下载与AI造字平台，提供免费商用字体下载、字体转换器、AI神笔造字等服务，部分字体免费商用。",
+  "defaultLicenseType": "免费商用",
   "fonts": [
     "Hkhlssxt"
   ],
