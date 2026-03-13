@@ -1,14 +1,14 @@
 {
   "slug": "yunfeng",
   "name": "云峰字库",
-  "nameEn": null,
+  "nameEn": "云峰字库",
   "type": "company",
-  "country": null,
+  "country": "CN",
   "website": null,
   "licensePolicyUrl": null,
   "contactEmail": null,
-  "description": null,
-  "defaultLicenseType": null,
+  "description": "云峰字库为独立字体设计者，已发布云峰飞云体等免费商用字体，风格偏手写艺术体。",
+  "defaultLicenseType": "免费商用",
   "fonts": [
     "Cqscbbt",
     "Yffyt"
