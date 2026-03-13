@@ -1,14 +1,14 @@
 {
   "slug": "shetuang",
   "name": "摄图网",
-  "nameEn": null,
+  "nameEn": "摄图网",
   "type": "company",
-  "country": null,
-  "website": null,
-  "licensePolicyUrl": null,
+  "country": "CN",
+  "website": "https://699pic.com",
+  "licensePolicyUrl": "https://www.maoken.com/freefonts/6885.html",
   "contactEmail": null,
-  "description": null,
-  "defaultLicenseType": null,
+  "description": "摄图网（699pic.com）是中国正版摄影图片素材平台，推出摄图摩登小方体作为公益免费商用字体，创意个性化黑体风格。",
+  "defaultLicenseType": "免费商用",
   "fonts": [
     "Symdxft"
   ],
