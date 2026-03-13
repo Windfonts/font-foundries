@@ -1,17 +1,17 @@
 {
   "slug": "ruixian",
   "name": "Shang hai Rui Xian Creative Design Co., Ltd.",
-  "nameEn": null,
+  "nameEn": "锐字潮牌字库",
   "type": "company",
-  "country": null,
-  "website": null,
-  "licensePolicyUrl": null,
+  "country": "CN",
+  "website": "https://www.reeji.com/",
+  "licensePolicyUrl": "http://reeji.com/free-fonts-4-biz/",
   "contactEmail": null,
-  "description": null,
-  "defaultLicenseType": null,
+  "description": "专业潮流字体公司，拥有大量原创中文字体，提供商业授权。旗下锐字真言体2.0为免费商用字体，支持可变字体技术。",
+  "defaultLicenseType": "付费授权",
   "fonts": [
     "Rzzyt"
   ],
   "logoUrl": null,
-  "established": null
+  "established": 2014
 }
