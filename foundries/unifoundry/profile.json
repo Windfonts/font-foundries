@@ -1,0 +1,17 @@
+{
+  "slug": "unifoundry",
+  "name": "Unifoundry",
+  "nameEn": null,
+  "type": "company",
+  "country": null,
+  "website": null,
+  "licensePolicyUrl": null,
+  "contactEmail": null,
+  "description": null,
+  "defaultLicenseType": null,
+  "fonts": [
+    "Unfdzh"
+  ],
+  "logoUrl": null,
+  "established": null
+}
