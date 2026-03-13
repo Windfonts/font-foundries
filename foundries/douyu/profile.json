@@ -1,17 +1,17 @@
 {
   "slug": "douyu",
   "name": "斗鱼武汉研发部UED/品牌组",
-  "nameEn": null,
+  "nameEn": "斗鱼",
   "type": "company",
-  "country": null,
-  "website": null,
-  "licensePolicyUrl": null,
+  "country": "CN",
+  "website": "https://www.douyu.com",
+  "licensePolicyUrl": "https://www.maoken.com/freefonts/12073.html",
   "contactEmail": null,
-  "description": null,
-  "defaultLicenseType": null,
+  "description": "斗鱼是中国知名游戏直播平台，推出斗鱼追光体作为品牌字体，充满竞技与速度感，免费授权全社会使用包括商用。",
+  "defaultLicenseType": "免费商用",
   "fonts": [
     "Dyzgt"
   ],
   "logoUrl": null,
-  "established": null
+  "established": 2014
 }
