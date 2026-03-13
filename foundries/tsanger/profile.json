@@ -1,18 +1,18 @@
 {
   "slug": "tsanger",
   "name": "仓耳字库",
-  "nameEn": null,
+  "nameEn": "造字工房",
   "type": "company",
-  "country": null,
-  "website": null,
-  "licensePolicyUrl": null,
-  "contactEmail": null,
-  "description": null,
-  "defaultLicenseType": null,
+  "country": "CN",
+  "website": "https://www.makefont.com",
+  "licensePolicyUrl": "https://www.makefont.com/authorization.html",
+  "contactEmail": "service@makefont.com",
+  "description": "创建于2010年，专注汉字新字体字形设计与开发，团队由资深商业设计师和专业字体设计师组成，产品涵盖黑体、宋体、艺术字体、手书系列。",
+  "defaultLicenseType": "付费授权",
   "fonts": [
     "Cexwz",
     "Cezkzdbs"
   ],
   "logoUrl": null,
-  "established": null
+  "established": 2010
 }
