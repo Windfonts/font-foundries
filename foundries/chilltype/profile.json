@@ -1,0 +1,19 @@
+{
+  "slug": "chilltype",
+  "name": "ChillType",
+  "nameEn": null,
+  "type": "company",
+  "country": null,
+  "website": null,
+  "licensePolicyUrl": null,
+  "contactEmail": null,
+  "description": null,
+  "defaultLicenseType": null,
+  "fonts": [
+    "Hcdht",
+    "Hcszt",
+    "Hctyt"
+  ],
+  "logoUrl": null,
+  "established": null
+}
