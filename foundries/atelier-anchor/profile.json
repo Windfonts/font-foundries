@@ -1,0 +1,17 @@
+{
+  "slug": "atelier-anchor",
+  "name": "atelierAnchor",
+  "nameEn": null,
+  "type": "company",
+  "country": null,
+  "website": null,
+  "licensePolicyUrl": null,
+  "contactEmail": null,
+  "description": null,
+  "defaultLicenseType": null,
+  "fonts": [
+    "Dyh"
+  ],
+  "logoUrl": null,
+  "established": null
+}
