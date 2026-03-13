@@ -1,17 +1,17 @@
 {
   "slug": "chuangkit",
   "name": "www.chuangkit.com",
-  "nameEn": null,
+  "nameEn": "创客贴",
   "type": "company",
-  "country": null,
-  "website": null,
-  "licensePolicyUrl": null,
+  "country": "CN",
+  "website": "https://www.chuangkit.com/",
+  "licensePolicyUrl": "https://www.chuangkit.com/help/useragreement",
   "contactEmail": null,
-  "description": null,
-  "defaultLicenseType": null,
+  "description": "在线平面设计平台，提供模板、字体、素材等设计工具，会员可获得字体商用授权。主打'会打字就能做设计'。",
+  "defaultLicenseType": "付费授权",
   "fonts": [
     "Cktjgt"
   ],
   "logoUrl": null,
-  "established": null
+  "established": 2014
 }
