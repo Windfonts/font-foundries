@@ -1,14 +1,14 @@
 {
   "slug": "adobe",
   "name": "Adobe Systems Incorporated",
-  "nameEn": null,
+  "nameEn": "奥多比",
   "type": "company",
-  "country": null,
-  "website": null,
-  "licensePolicyUrl": null,
+  "country": "US",
+  "website": "https://www.adobe.com",
+  "licensePolicyUrl": "https://fonts.adobe.com/",
   "contactEmail": null,
-  "description": null,
-  "defaultLicenseType": null,
+  "description": "全球领先的创意软件公司，与Google合作开发思源黑体/宋体（Source Han Sans/Serif），采用SIL OFL开源协议，是CJK字体领域最重要的贡献者之一。",
+  "defaultLicenseType": "免费商用",
   "fonts": [
     "Light",
     "Mspyt",
@@ -17,5 +17,5 @@
     "Yjmct"
   ],
   "logoUrl": null,
-  "established": null
+  "established": 1982
 }
