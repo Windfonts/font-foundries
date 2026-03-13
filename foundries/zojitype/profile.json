@@ -1,14 +1,14 @@
 {
   "slug": "zojitype",
   "name": "____Zojitype",
-  "nameEn": null,
+  "nameEn": "左字字库",
   "type": "company",
-  "country": null,
+  "country": "CN",
   "website": null,
   "licensePolicyUrl": null,
   "contactEmail": null,
-  "description": null,
-  "defaultLicenseType": null,
+  "description": "左字字库（ZojiType）是中国字体设计工作室，在字客网有厂商页面收录，专注中文字体设计。",
+  "defaultLicenseType": "付费授权",
   "fonts": [
     "Ztqxyjxs"
   ],
