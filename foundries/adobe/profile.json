@@ -1,0 +1,21 @@
+{
+  "slug": "adobe",
+  "name": "Adobe Systems Incorporated",
+  "nameEn": null,
+  "type": "company",
+  "country": null,
+  "website": null,
+  "licensePolicyUrl": null,
+  "contactEmail": null,
+  "description": null,
+  "defaultLicenseType": null,
+  "fonts": [
+    "Light",
+    "Mspyt",
+    "Syhtcjk",
+    "Systcn",
+    "Yjmct"
+  ],
+  "logoUrl": null,
+  "established": null
+}
