@@ -1,14 +1,14 @@
 {
   "slug": "poppy-works",
   "name": "Poppy Works",
-  "nameEn": null,
+  "nameEn": "Poppy Works",
   "type": "company",
-  "country": null,
-  "website": null,
-  "licensePolicyUrl": null,
+  "country": "JP",
+  "website": "https://poppyworks.itch.io",
+  "licensePolicyUrl": "https://poppyworks.itch.io/silver",
   "contactEmail": null,
-  "description": null,
-  "defaultLicenseType": null,
+  "description": "Poppy Works是独立字体设计者，代表作品Silver是一款面向游戏的像素字体，支持CJK字符，在itch.io上发布并持续更新。",
+  "defaultLicenseType": "付费授权",
   "fonts": [
     "Xsslv"
   ],
