@@ -1,0 +1,17 @@
+{
+  "slug": "longzhuti",
+  "name": "LongZhuTi Project",
+  "nameEn": null,
+  "type": "company",
+  "country": null,
+  "website": null,
+  "licensePolicyUrl": null,
+  "contactEmail": null,
+  "description": null,
+  "defaultLicenseType": null,
+  "fonts": [
+    "Mkzyt"
+  ],
+  "logoUrl": null,
+  "established": null
+}
