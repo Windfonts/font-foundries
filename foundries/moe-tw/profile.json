@@ -1,14 +1,14 @@
 {
   "slug": "moe-tw",
   "name": "中华民国教育部",
-  "nameEn": null,
+  "nameEn": "教育部（台湾）/ 萌典",
   "type": "company",
-  "country": null,
-  "website": null,
-  "licensePolicyUrl": null,
+  "country": "TW",
+  "website": "https://www.moedict.tw",
+  "licensePolicyUrl": "https://stroke-order.learningweb.moe.edu.tw/",
   "contactEmail": null,
-  "description": null,
-  "defaultLicenseType": null,
+  "description": "台湾教育部发布国字标准字体，萌典（moedict.tw）为g0v公民科技社群基于教育部数据开发的开源辞典项目，提供标准字体查询服务。",
+  "defaultLicenseType": "免费商用",
   "fonts": [
     "Twjybbzjs"
   ],
