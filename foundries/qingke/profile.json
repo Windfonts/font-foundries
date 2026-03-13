@@ -1,14 +1,14 @@
 {
   "slug": "qingke",
   "name": "庆科字体",
-  "nameEn": null,
+  "nameEn": "站酷庆科（郑庆科）",
   "type": "company",
-  "country": null,
-  "website": null,
-  "licensePolicyUrl": null,
+  "country": "CN",
+  "website": "https://m.zcool.com.cn/work/ZMTg5MDEyMDQ=.html",
+  "licensePolicyUrl": "https://fonts.google.com/specimen/ZCOOL+QingKe+HuangYou",
   "contactEmail": null,
-  "description": null,
-  "defaultLicenseType": null,
+  "description": "设计师郑庆科创作的站酷庆科黄油体，圆润甜美风格，收录于Google Fonts，采用SIL OFL授权免费商用。",
+  "defaultLicenseType": "免费商用",
   "fonts": [
     "Zqkhyt"
   ],
