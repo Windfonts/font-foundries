@@ -1,14 +1,14 @@
 {
   "slug": "longcang",
   "name": "The LongCang Project Authors",
-  "nameEn": null,
+  "nameEn": "龙藏（有字库）",
   "type": "company",
-  "country": null,
-  "website": null,
-  "licensePolicyUrl": null,
+  "country": "CN",
+  "website": "https://fonts.google.com/specimen/Long+Cang",
+  "licensePolicyUrl": "https://fonts.google.com/specimen/Long+Cang",
   "contactEmail": null,
-  "description": null,
-  "defaultLicenseType": null,
+  "description": "有字库龙藏体，收录于Google Fonts开源字体项目，手写传统风格字体，基于SIL Open Font License免费商用。",
+  "defaultLicenseType": "免费商用",
   "fonts": [
     "Hclcks"
   ],
