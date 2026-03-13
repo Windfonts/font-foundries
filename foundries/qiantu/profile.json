@@ -1,18 +1,18 @@
 {
   "slug": "qiantu",
   "name": "千图网",
-  "nameEn": null,
+  "nameEn": "千图网",
   "type": "company",
-  "country": null,
-  "website": null,
-  "licensePolicyUrl": null,
+  "country": "CN",
+  "website": "https://www.58pic.com/",
+  "licensePolicyUrl": "https://www.58pic.com/index.php?m=help&a=detail&id=72",
   "contactEmail": null,
-  "description": null,
-  "defaultLicenseType": null,
+  "description": "综合设计素材平台，提供图片、模板、字体等素材下载，VIP会员制商用授权模式。隶属上海图魂网络科技有限公司。",
+  "defaultLicenseType": "付费授权",
   "fonts": [
     "Qtmksxt",
     "Qtxtt"
   ],
   "logoUrl": null,
-  "established": null
+  "established": 2013
 }
