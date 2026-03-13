@@ -1,0 +1,86 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "https://feicode.com/Windfonts/font-foundries/raw/branch/main/schemas/foundry-profile.schema.json",
+  "title": "WindFonts Foundry Profile",
+  "description": "文风字体厂商档案标准格式 v1.0",
+  "type": "object",
+  "required": ["slug", "name", "type", "defaultLicenseType"],
+  "properties": {
+    "slug": {
+      "type": "string",
+      "pattern": "^[a-z0-9-]+$",
+      "description": "唯一标识，kebab-case（如 alibaba-design）"
+    },
+    "name": {
+      "type": "string",
+      "description": "厂商中文名称（如 阿里巴巴设计）"
+    },
+    "nameEn": {
+      "type": ["string", "null"],
+      "description": "厂商英文名称（如 Alibaba Design）"
+    },
+    "vendorId": {
+      "type": ["string", "null"],
+      "pattern": "^[A-Z0-9]{4}$",
+      "description": "OpenType OS/2 achVendID，4字符大写（如 ADBE = Adobe），微软注册表中的标准代码"
+    },
+    "type": {
+      "type": "string",
+      "enum": ["company", "studio", "individual", "collective"],
+      "description": "厂商类型：company（公司）/ studio（工作室）/ individual（个人设计师）/ collective（联合体）"
+    },
+    "country": {
+      "type": ["string", "null"],
+      "description": "国家/地区（如 中国、日本、美国）"
+    },
+    "website": {
+      "type": ["string", "null"],
+      "format": "uri",
+      "description": "官网 URL"
+    },
+    "licensePolicyUrl": {
+      "type": ["string", "null"],
+      "format": "uri",
+      "description": "授权政策页面 URL"
+    },
+    "contactEmail": {
+      "type": ["string", "null"],
+      "format": "email",
+      "description": "联系邮箱"
+    },
+    "socialLinks": {
+      "type": "object",
+      "description": "社交媒体链接",
+      "properties": {
+        "weibo": { "type": "string" },
+        "wechat": { "type": "string", "description": "微信公众号名称" },
+        "github": { "type": "string", "format": "uri" },
+        "twitter": { "type": "string", "format": "uri" },
+        "instagram": { "type": "string", "format": "uri" }
+      }
+    },
+    "description": {
+      "type": ["string", "null"],
+      "description": "厂商简介"
+    },
+    "defaultLicenseType": {
+      "type": "string",
+      "enum": ["免费商用", "个人免费", "试用版", "付费授权", "联系授权"],
+      "description": "该厂商字体的默认授权类型"
+    },
+    "fonts": {
+      "type": "array",
+      "items": { "type": "string" },
+      "description": "旗下字体的 normalizedName 列表（如 [\"Almmsht\", \"Albbpht\"]）"
+    },
+    "logoUrl": {
+      "type": ["string", "null"],
+      "format": "uri",
+      "description": "厂商 Logo URL"
+    },
+    "established": {
+      "type": ["integer", "null"],
+      "description": "成立年份"
+    }
+  }
+}
