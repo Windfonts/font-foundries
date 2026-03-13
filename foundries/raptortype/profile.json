@@ -1,14 +1,14 @@
 {
   "slug": "raptortype",
   "name": "RAPTORTYPE",
-  "nameEn": null,
+  "nameEn": "RaptorType",
   "type": "company",
-  "country": null,
+  "country": "CN",
   "website": null,
   "licensePolicyUrl": null,
   "contactEmail": null,
-  "description": null,
-  "defaultLicenseType": null,
+  "description": "RaptorType为字体设计者或工作室，相关信息极少，未找到以RaptorType为名的字体厂商官方页面。",
+  "defaultLicenseType": "联系授权",
   "fonts": [
     "Jzkgeht",
     "Jzkgemc"
