@@ -1,14 +1,14 @@
 {
   "slug": "hanyi",
   "name": "Hanyi Fonts",
-  "nameEn": null,
+  "nameEn": "汉仪字库",
   "type": "company",
-  "country": null,
-  "website": null,
-  "licensePolicyUrl": null,
+  "country": "CN",
+  "website": "https://www.hanyi.com.cn",
+  "licensePolicyUrl": "https://www.hanyi.com.cn/productBuy",
   "contactEmail": null,
-  "description": null,
-  "defaultLicenseType": null,
+  "description": "成立于1993年，致力于提供以字体为中心的全类别场景服务，已推出上千款中西文字体，涵盖书法、美术、黑体、宋体等多种风格，并开发多款明星手写字体。",
+  "defaultLicenseType": "付费授权",
   "fonts": [
     "Alhyznht",
     "Ddjbt",
@@ -16,5 +16,5 @@
     "Opsa"
   ],
   "logoUrl": null,
-  "established": null
+  "established": 1993
 }
