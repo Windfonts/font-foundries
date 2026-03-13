@@ -1,14 +1,14 @@
 {
   "slug": "longquansi",
   "name": "北京龙泉寺",
-  "nameEn": null,
+  "nameEn": "北京龙泉寺动漫中心",
   "type": "company",
-  "country": null,
+  "country": "CN",
   "website": null,
   "licensePolicyUrl": null,
   "contactEmail": null,
-  "description": null,
-  "defaultLicenseType": null,
+  "description": "北京龙泉寺动漫中心与汉仪字库联合推出贤二体，以龙泉寺动漫形象贤二为灵感，诙谐幽默的手写风格佛系字体，免费商用。",
+  "defaultLicenseType": "免费商用",
   "fonts": [
     "Xet"
   ],
