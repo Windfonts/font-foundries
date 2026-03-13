@@ -1,19 +1,19 @@
 {
   "slug": "ascender",
   "name": "Ascender Corporation",
-  "nameEn": null,
+  "nameEn": "Ascender公司",
   "type": "company",
-  "country": null,
-  "website": null,
+  "country": "US",
+  "website": "https://www.ascendercorp.com",
   "licensePolicyUrl": null,
   "contactEmail": null,
-  "description": null,
-  "defaultLicenseType": null,
+  "description": "2004年成立于美国伊利诺伊州，专注字体开发、授权和知识产权保护，由前Agfa/Monotype核心成员创立。2010年被Monotype以1020万美元收购。",
+  "defaultLicenseType": "付费授权",
   "fonts": [
     "Azbzzwzt",
     "Wqydkwmh",
     "Wqywmh"
   ],
   "logoUrl": null,
-  "established": null
+  "established": 2004
 }
