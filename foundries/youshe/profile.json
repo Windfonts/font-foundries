@@ -1,17 +1,17 @@
 {
   "slug": "youshe",
   "name": "YouShe Network Technology Co., Ltd",
-  "nameEn": null,
+  "nameEn": "优设",
   "type": "company",
-  "country": null,
-  "website": null,
-  "licensePolicyUrl": null,
+  "country": "CN",
+  "website": "https://www.uisdc.com",
+  "licensePolicyUrl": "https://www.uisdc.com/uisdc-first-free-font",
   "contactEmail": null,
-  "description": null,
-  "defaultLicenseType": null,
+  "description": "国内知名设计师学习平台，2012年成立。联合字由团队推出优设标题黑、优设好身体等免费商用字体，永久免费授权全社会使用包括商业用途。",
+  "defaultLicenseType": "免费商用",
   "fonts": [
     "Ysbth"
   ],
   "logoUrl": null,
-  "established": null
+  "established": 2012
 }
