@@ -1,14 +1,14 @@
 {
   "slug": "shutifang",
   "name": "书体坊",
-  "nameEn": null,
+  "nameEn": "书体坊",
   "type": "company",
-  "country": null,
+  "country": "CN",
   "website": null,
-  "licensePolicyUrl": null,
+  "licensePolicyUrl": "https://www.foundertype.com/index.php/Provider/index/id/22.html",
   "contactEmail": null,
-  "description": null,
-  "defaultLicenseType": null,
+  "description": "书法字体工作室，基于历代书法名家（颜真卿、柳公权、王铎、米芾等）手迹制作数字字体，通过方正字库代理发行。",
+  "defaultLicenseType": "付费授权",
   "fonts": [
     "Stfzxfxct"
   ],
