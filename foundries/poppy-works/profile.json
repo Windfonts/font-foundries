@@ -1,0 +1,17 @@
+{
+  "slug": "poppy-works",
+  "name": "Poppy Works",
+  "nameEn": null,
+  "type": "company",
+  "country": null,
+  "website": null,
+  "licensePolicyUrl": null,
+  "contactEmail": null,
+  "description": null,
+  "defaultLicenseType": null,
+  "fonts": [
+    "Xsslv"
+  ],
+  "logoUrl": null,
+  "established": null
+}
