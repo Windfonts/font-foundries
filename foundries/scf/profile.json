@@ -1,0 +1,17 @@
+{
+  "slug": "scf",
+  "name": "SCF",
+  "nameEn": null,
+  "type": "company",
+  "country": null,
+  "website": null,
+  "licensePolicyUrl": null,
+  "contactEmail": null,
+  "description": null,
+  "defaultLicenseType": null,
+  "fonts": [
+    "Stfytz"
+  ],
+  "logoUrl": null,
+  "established": null
+}
