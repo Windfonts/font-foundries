@@ -1,0 +1,17 @@
+{
+  "slug": "sandoll",
+  "name": "Sandoll Inc.",
+  "nameEn": null,
+  "type": "company",
+  "country": null,
+  "website": null,
+  "licensePolicyUrl": null,
+  "contactEmail": null,
+  "description": null,
+  "defaultLicenseType": null,
+  "fonts": [
+    "Ibmps"
+  ],
+  "logoUrl": null,
+  "established": null
+}
