@@ -1,17 +1,17 @@
 {
   "slug": "kuaikan",
   "name": "快看KKDC（快看设计中心）",
-  "nameEn": null,
+  "nameEn": "快看",
   "type": "company",
-  "country": null,
-  "website": null,
-  "licensePolicyUrl": null,
+  "country": "CN",
+  "website": "https://www.kuaikanmanhua.com",
+  "licensePolicyUrl": "https://www.kuaikanmanhua.com/webs/fontPromotion",
   "contactEmail": null,
-  "description": null,
-  "defaultLicenseType": null,
+  "description": "快看（快看漫画）是中国领先的漫画平台，其设计中心KKDC推出快看世界体，融入ACGN文化元素，年轻潮流风格，免费授权全社会商用。",
+  "defaultLicenseType": "免费商用",
   "fonts": [
     "Kksjt"
   ],
   "logoUrl": null,
-  "established": null
+  "established": 2014
 }
