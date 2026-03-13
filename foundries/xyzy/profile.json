@@ -1,14 +1,14 @@
 {
   "slug": "xyzy",
   "name": "咸阳职业技术学院 (大学生科技创新项目)",
-  "nameEn": null,
+  "nameEn": "小叶子",
   "type": "company",
-  "country": null,
+  "country": "CN",
   "website": null,
   "licensePolicyUrl": null,
   "contactEmail": null,
-  "description": null,
-  "defaultLicenseType": null,
+  "description": "小叶子（XYZY）为字体设计者或工作室，相关信息极少，搜索结果被同名ETF基金干扰，未找到字体相关官方信息。",
+  "defaultLicenseType": "联系授权",
   "fonts": [
     "Ysbzt"
   ],
