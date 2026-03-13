@@ -1,14 +1,14 @@
 {
   "slug": "sucaijishi",
   "name": "sucaijishi.com",
-  "nameEn": null,
+  "nameEn": "素材集市",
   "type": "company",
-  "country": null,
-  "website": null,
+  "country": "CN",
+  "website": "https://www.sucaijishi.com/",
   "licensePolicyUrl": null,
   "contactEmail": null,
-  "description": null,
-  "defaultLicenseType": null,
+  "description": "设计素材分享平台，发布多款免费商用字体，包括素材集市酷方体、社会体、康康体等，均可免费商用。",
+  "defaultLicenseType": "免费商用",
   "fonts": [
     "Scjskkt"
   ],
