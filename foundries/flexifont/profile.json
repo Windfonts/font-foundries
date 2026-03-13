@@ -1,0 +1,17 @@
+{
+  "slug": "flexifont",
+  "name": "FlexiFont Co.,Ltd.",
+  "nameEn": null,
+  "type": "company",
+  "country": null,
+  "website": null,
+  "licensePolicyUrl": null,
+  "contactEmail": null,
+  "description": null,
+  "defaultLicenseType": null,
+  "fonts": [
+    "Mysxt"
+  ],
+  "logoUrl": null,
+  "established": null
+}
