@@ -1,0 +1,17 @@
+{
+  "slug": "yidian",
+  "name": "I.字坊 (一点字坊)",
+  "nameEn": null,
+  "type": "company",
+  "country": null,
+  "website": null,
+  "licensePolicyUrl": null,
+  "contactEmail": null,
+  "description": null,
+  "defaultLicenseType": null,
+  "fonts": [
+    "Kslmt"
+  ],
+  "logoUrl": null,
+  "established": null
+}
