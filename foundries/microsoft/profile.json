@@ -1,17 +1,17 @@
 {
   "slug": "microsoft",
   "name": "微软 (Microsoft)",
-  "nameEn": null,
+  "nameEn": "微软",
   "type": "company",
-  "country": null,
-  "website": null,
-  "licensePolicyUrl": null,
+  "country": "US",
+  "website": "https://www.microsoft.com",
+  "licensePolicyUrl": "https://learn.microsoft.com/en-us/typography/",
   "contactEmail": null,
-  "description": null,
-  "defaultLicenseType": null,
+  "description": "全球科技巨头，Microsoft Typography团队研发字体技术并支持OpenType字体开发。出品微软雅黑、Segoe UI等系统字体，推动了ClearType和OpenType标准发展。",
+  "defaultLicenseType": "联系授权",
   "fonts": [
     "Twjybxxmt"
   ],
   "logoUrl": null,
-  "established": null
+  "established": 1975
 }
