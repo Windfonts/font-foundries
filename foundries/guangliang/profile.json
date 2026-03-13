@@ -1,14 +1,14 @@
 {
   "slug": "guangliang",
   "name": "四川光良酒业有限公司",
-  "nameEn": null,
+  "nameEn": "光良",
   "type": "company",
-  "country": null,
+  "country": "CN",
   "website": null,
   "licensePolicyUrl": null,
   "contactEmail": null,
-  "description": null,
-  "defaultLicenseType": null,
+  "description": "光良为独立字体设计者，相关信息极少，未找到以光良为名的字体厂商或独立设计师的官方页面。",
+  "defaultLicenseType": "联系授权",
   "fonts": [
     "Gljgbt"
   ],
