@@ -1,14 +1,14 @@
 {
   "slug": "fontree",
   "name": "fontree",
-  "nameEn": null,
+  "nameEn": "字由",
   "type": "company",
-  "country": null,
-  "website": null,
-  "licensePolicyUrl": null,
+  "country": "CN",
+  "website": "https://www.hellofont.cn",
+  "licensePolicyUrl": "https://www.hellofont.cn",
   "contactEmail": null,
-  "description": null,
-  "defaultLicenseType": null,
+  "description": "字由（HelloFont）是国内知名字体管理与分发平台，提供千款字体一键使用服务，涵盖免费和商业字体，是设计师必备字体工具。",
+  "defaultLicenseType": "付费授权",
   "fonts": [
     "Jxzk"
   ],
