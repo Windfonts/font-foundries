@@ -1,0 +1,19 @@
+{
+  "slug": "ichiten",
+  "name": "Ichiten Fonts Project",
+  "nameEn": null,
+  "type": "company",
+  "country": null,
+  "website": null,
+  "licensePolicyUrl": null,
+  "contactEmail": null,
+  "description": null,
+  "defaultLicenseType": null,
+  "fonts": [
+    "Klsyt",
+    "Kslgbht",
+    "Kslyt"
+  ],
+  "logoUrl": null,
+  "established": null
+}
