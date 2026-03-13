@@ -1,14 +1,14 @@
 {
   "slug": "myil",
   "name": "MYIL",
-  "nameEn": null,
+  "nameEn": "妙笔",
   "type": "company",
-  "country": null,
+  "country": "CN",
   "website": null,
   "licensePolicyUrl": null,
   "contactEmail": null,
-  "description": null,
-  "defaultLicenseType": null,
+  "description": "妙笔（MYIL）为字体设计者或工作室，相关信息极少，未找到以MYIL或妙笔为名的字体厂商官方页面。",
+  "defaultLicenseType": "联系授权",
   "fonts": [
     "Nsfx",
     "Nswt"
