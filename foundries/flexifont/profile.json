@@ -1,14 +1,14 @@
 {
   "slug": "flexifont",
   "name": "FlexiFont Co.,Ltd.",
-  "nameEn": null,
+  "nameEn": "锐字潮牌字库（上海锐线创意设计有限公司）",
   "type": "company",
-  "country": null,
-  "website": null,
-  "licensePolicyUrl": null,
+  "country": "CN",
+  "website": "https://www.reeji.com",
+  "licensePolicyUrl": "https://www.reeji.com",
   "contactEmail": null,
-  "description": null,
-  "defaultLicenseType": null,
+  "description": "锐字潮牌字库（reeji.com）由上海锐线创意设计有限公司运营，专注潮流创意字体设计，拥有大量商业字体产品，部分字体如锐字真言体免费商用。",
+  "defaultLicenseType": "付费授权",
   "fonts": [
     "Mysxt"
   ],
