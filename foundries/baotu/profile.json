@@ -1,17 +1,17 @@
 {
   "slug": "baotu",
   "name": "上海包图网络科技有限公司",
-  "nameEn": null,
+  "nameEn": "包图网",
   "type": "company",
-  "country": null,
-  "website": null,
-  "licensePolicyUrl": null,
+  "country": "CN",
+  "website": "https://ibaotu.com/",
+  "licensePolicyUrl": "https://ibaotu.com/help/detail/id/339.html",
   "contactEmail": null,
-  "description": null,
-  "defaultLicenseType": null,
+  "description": "综合正版商用素材平台，提供设计模板、视频、音乐、字体等素材，VIP会员可获得商用授权。旗下有包图小白体等免费商用字体。",
+  "defaultLicenseType": "付费授权",
   "fonts": [
     "Btxbt"
   ],
   "logoUrl": null,
-  "established": null
+  "established": 2016
 }
