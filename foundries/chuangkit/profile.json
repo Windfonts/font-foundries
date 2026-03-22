@@ -1,7 +1,7 @@
 {
   "slug": "chuangkit",
-  "name": "www.chuangkit.com",
-  "nameEn": "创客贴",
+  "name": "创客贴",
+  "nameEn": "Chuangkit",
   "type": "company",
   "country": "CN",
   "website": "https://www.chuangkit.com/",
@@ -13,5 +13,7 @@
     "Cktjgt"
   ],
   "logoUrl": null,
-  "established": 2014
+  "established": 2014,
+  "vendorId": null,
+  "socialLinks": null
 }

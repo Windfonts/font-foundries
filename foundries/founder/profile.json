@@ -1,7 +1,7 @@
 {
   "slug": "founder",
-  "name": "北京北大方正电子有限公司",
-  "nameEn": "方正字库",
+  "name": "方正字库",
+  "nameEn": "FounderType",
   "type": "company",
   "country": "CN",
   "website": "https://www.foundertype.com",
@@ -13,5 +13,7 @@
     "Dymht"
   ],
   "logoUrl": null,
-  "established": 1991
+  "established": 1991,
+  "vendorId": null,
+  "socialLinks": null
 }

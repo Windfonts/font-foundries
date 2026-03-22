@@ -1,8 +1,8 @@
 {
   "slug": "moe-tw",
-  "name": "中华民国教育部",
-  "nameEn": "教育部（台湾）/ 萌典",
-  "type": "company",
+  "name": "教育部（台湾）/ 萌典",
+  "nameEn": "Ministry of Education (Taiwan)",
+  "type": "collective",
   "country": "TW",
   "website": "https://www.moedict.tw",
   "licensePolicyUrl": "https://stroke-order.learningweb.moe.edu.tw/",
@@ -13,5 +13,7 @@
     "Twjybbzjs"
   ],
   "logoUrl": null,
-  "established": null
+  "established": null,
+  "vendorId": null,
+  "socialLinks": null
 }

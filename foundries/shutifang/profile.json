@@ -1,8 +1,8 @@
 {
   "slug": "shutifang",
   "name": "书体坊",
-  "nameEn": "书体坊",
-  "type": "company",
+  "nameEn": "ShuTiFang",
+  "type": "studio",
   "country": "CN",
   "website": null,
   "licensePolicyUrl": "https://www.foundertype.com/index.php/Provider/index/id/22.html",
@@ -13,5 +13,7 @@
     "Stfzxfxct"
   ],
   "logoUrl": null,
-  "established": null
+  "established": null,
+  "vendorId": null,
+  "socialLinks": null
 }

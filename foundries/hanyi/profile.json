@@ -1,7 +1,7 @@
 {
   "slug": "hanyi",
-  "name": "Hanyi Fonts",
-  "nameEn": "汉仪字库",
+  "name": "汉仪字库",
+  "nameEn": "Hanyi Fonts",
   "type": "company",
   "country": "CN",
   "website": "https://www.hanyi.com.cn",
@@ -16,5 +16,7 @@
     "Opsa"
   ],
   "logoUrl": null,
-  "established": 1993
+  "established": 1993,
+  "vendorId": null,
+  "socialLinks": null
 }

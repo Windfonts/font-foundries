@@ -1,7 +1,7 @@
 {
   "slug": "sucaijishi",
-  "name": "sucaijishi.com",
-  "nameEn": "素材集市",
+  "name": "素材集市",
+  "nameEn": "SuCaiJiShi",
   "type": "company",
   "country": "CN",
   "website": "https://www.sucaijishi.com/",
@@ -13,5 +13,7 @@
     "Scjskkt"
   ],
   "logoUrl": null,
-  "established": null
+  "established": null,
+  "vendorId": null,
+  "socialLinks": null
 }

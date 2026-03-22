@@ -1,7 +1,7 @@
 {
   "slug": "alibaba-design",
-  "name": "Alibaba Design",
-  "nameEn": "阿里巴巴设计",
+  "name": "阿里巴巴设计",
+  "nameEn": "Alibaba Design",
   "type": "company",
   "country": "CN",
   "website": "https://fonts.alibabagroup.com/",
@@ -16,5 +16,7 @@
     "Almmsht"
   ],
   "logoUrl": null,
-  "established": 2019
+  "established": 2019,
+  "vendorId": null,
+  "socialLinks": null
 }

@@ -2,7 +2,7 @@
   "slug": "poppy-works",
   "name": "Poppy Works",
   "nameEn": "Poppy Works",
-  "type": "company",
+  "type": "individual",
   "country": "JP",
   "website": "https://poppyworks.itch.io",
   "licensePolicyUrl": "https://poppyworks.itch.io/silver",
@@ -13,5 +13,7 @@
     "Xsslv"
   ],
   "logoUrl": null,
-  "established": null
+  "established": null,
+  "vendorId": null,
+  "socialLinks": null
 }

@@ -1,8 +1,8 @@
 {
   "slug": "cjkfonts",
-  "name": "cjkFonts",
-  "nameEn": "CJK Fonts",
-  "type": "company",
+  "name": "CJK Fonts",
+  "nameEn": "cjkFonts",
+  "type": "collective",
   "country": "HK",
   "website": "https://cjkfonts.io/",
   "licensePolicyUrl": "https://cjkfonts.io/blog/cjkfonts_allseto",
@@ -13,5 +13,7 @@
     "Sft"
   ],
   "logoUrl": null,
-  "established": null
+  "established": null,
+  "vendorId": null,
+  "socialLinks": null
 }

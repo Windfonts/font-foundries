@@ -1,8 +1,8 @@
 {
   "slug": "yidian",
-  "name": "I.字坊 (一点字坊)",
-  "nameEn": "一点字库（I.字坊）",
-  "type": "company",
+  "name": "一点字库（I.字坊）",
+  "nameEn": "I.Font Project / Ichiten Font",
+  "type": "collective",
   "country": "TW",
   "website": "https://github.com/ichitenfont",
   "licensePolicyUrl": "https://github.com/ichitenfont/I.Ming",
@@ -13,5 +13,7 @@
     "Kslmt"
   ],
   "logoUrl": null,
-  "established": null
+  "established": null,
+  "vendorId": null,
+  "socialLinks": null
 }

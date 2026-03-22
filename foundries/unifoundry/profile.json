@@ -2,7 +2,7 @@
   "slug": "unifoundry",
   "name": "Unifoundry",
   "nameEn": "Unifoundry",
-  "type": "company",
+  "type": "collective",
   "country": "US",
   "website": "https://unifoundry.com",
   "licensePolicyUrl": "https://unifoundry.com/unifont/",
@@ -13,5 +13,7 @@
     "Unfdzh"
   ],
   "logoUrl": null,
-  "established": 1998
+  "established": 1998,
+  "vendorId": null,
+  "socialLinks": null
 }

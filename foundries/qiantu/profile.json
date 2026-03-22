@@ -1,7 +1,7 @@
 {
   "slug": "qiantu",
   "name": "千图网",
-  "nameEn": "千图网",
+  "nameEn": "58pic (Qiantu)",
   "type": "company",
   "country": "CN",
   "website": "https://www.58pic.com/",
@@ -14,5 +14,7 @@
     "Qtxtt"
   ],
   "logoUrl": null,
-  "established": 2013
+  "established": 2013,
+  "vendorId": null,
+  "socialLinks": null
 }

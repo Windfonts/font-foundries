@@ -1,7 +1,7 @@
 {
   "slug": "zcool",
-  "name": "站酷字库",
-  "nameEn": "站酷",
+  "name": "站酷",
+  "nameEn": "ZCOOL",
   "type": "company",
   "country": "CN",
   "website": "https://www.zcool.com.cn",
@@ -14,5 +14,7 @@
     "Zkwyt"
   ],
   "logoUrl": null,
-  "established": 2006
+  "established": 2006,
+  "vendorId": null,
+  "socialLinks": null
 }

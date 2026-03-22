@@ -1,8 +1,8 @@
 {
   "slug": "chilltype",
-  "name": "ChillType",
-  "nameEn": "寒蝉字型",
-  "type": "company",
+  "name": "寒蝉字型",
+  "nameEn": "ChillType / Warren2060",
+  "type": "individual",
   "country": "CN",
   "website": "https://github.com/Warren2060",
   "licensePolicyUrl": "https://github.com/Warren2060/ChillShouZhuo",
@@ -15,5 +15,7 @@
     "Hctyt"
   ],
   "logoUrl": null,
-  "established": null
+  "established": null,
+  "vendorId": null,
+  "socialLinks": null
 }

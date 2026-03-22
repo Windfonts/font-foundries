@@ -1,7 +1,7 @@
 {
   "slug": "ruixian",
-  "name": "Shang hai Rui Xian Creative Design Co., Ltd.",
-  "nameEn": "锐字潮牌字库",
+  "name": "锐字潮牌字库",
+  "nameEn": "Reeji (RuiZi Trendy Font)",
   "type": "company",
   "country": "CN",
   "website": "https://www.reeji.com/",
@@ -13,5 +13,7 @@
     "Rzzyt"
   ],
   "logoUrl": null,
-  "established": 2014
+  "established": 2014,
+  "vendorId": null,
+  "socialLinks": null
 }

@@ -1,8 +1,8 @@
 {
   "slug": "maoken",
-  "name": "Maoken",
-  "nameEn": "猫啃网",
-  "type": "company",
+  "name": "猫啃网",
+  "nameEn": "Maoken",
+  "type": "collective",
   "country": "CN",
   "website": "https://www.maoken.com",
   "licensePolicyUrl": "https://www.maoken.com/freefonts",
@@ -17,5 +17,7 @@
     "Mkwxy"
   ],
   "logoUrl": null,
-  "established": 2018
+  "established": 2018,
+  "vendorId": null,
+  "socialLinks": null
 }

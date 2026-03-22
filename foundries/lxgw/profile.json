@@ -1,8 +1,8 @@
 {
   "slug": "lxgw",
-  "name": "LXGW",
-  "nameEn": "霞鹜",
-  "type": "company",
+  "name": "霞鹜",
+  "nameEn": "LXGW",
+  "type": "individual",
   "country": "CN",
   "website": "https://github.com/lxgw",
   "licensePolicyUrl": "https://github.com/lxgw/LxgwWenKai/blob/main/LICENSE",
@@ -13,5 +13,7 @@
     "Xwxxh"
   ],
   "logoUrl": null,
-  "established": 2021
+  "established": 2021,
+  "vendorId": null,
+  "socialLinks": null
 }

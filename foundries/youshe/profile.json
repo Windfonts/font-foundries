@@ -1,7 +1,7 @@
 {
   "slug": "youshe",
-  "name": "YouShe Network Technology Co., Ltd",
-  "nameEn": "优设",
+  "name": "优设",
+  "nameEn": "UISDC",
   "type": "company",
   "country": "CN",
   "website": "https://www.uisdc.com",
@@ -13,5 +13,7 @@
     "Ysbth"
   ],
   "logoUrl": null,
-  "established": 2012
+  "established": 2012,
+  "vendorId": null,
+  "socialLinks": null
 }

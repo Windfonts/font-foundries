@@ -1,7 +1,7 @@
 {
   "slug": "adobe",
-  "name": "Adobe Systems Incorporated",
-  "nameEn": "奥多比",
+  "name": "奥多比",
+  "nameEn": "Adobe",
   "type": "company",
   "country": "US",
   "website": "https://www.adobe.com",
@@ -17,5 +17,7 @@
     "Yjmct"
   ],
   "logoUrl": null,
-  "established": 1982
+  "established": 1982,
+  "vendorId": null,
+  "socialLinks": null
 }

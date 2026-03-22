@@ -1,7 +1,7 @@
 {
   "slug": "flexifont",
-  "name": "FlexiFont Co.,Ltd.",
-  "nameEn": "锐字潮牌字库（上海锐线创意设计有限公司）",
+  "name": "锐字潮牌字库（上海锐线创意设计有限公司）",
+  "nameEn": "Reeji / Sharp Type",
   "type": "company",
   "country": "CN",
   "website": "https://www.reeji.com",
@@ -13,5 +13,7 @@
     "Mysxt"
   ],
   "logoUrl": null,
-  "established": null
+  "established": null,
+  "vendorId": null,
+  "socialLinks": null
 }

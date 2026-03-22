@@ -1,7 +1,7 @@
 {
   "slug": "microsoft",
-  "name": "微软 (Microsoft)",
-  "nameEn": "微软",
+  "name": "微软",
+  "nameEn": "Microsoft",
   "type": "company",
   "country": "US",
   "website": "https://www.microsoft.com",
@@ -13,5 +13,7 @@
     "Twjybxxmt"
   ],
   "logoUrl": null,
-  "established": 1975
+  "established": 1975,
+  "vendorId": null,
+  "socialLinks": null
 }

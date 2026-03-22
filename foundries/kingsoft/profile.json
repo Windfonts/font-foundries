@@ -1,7 +1,7 @@
 {
   "slug": "kingsoft",
-  "name": "Kingsoft Cloud",
-  "nameEn": "金山办公",
+  "name": "金山办公",
+  "nameEn": "Kingsoft Office",
   "type": "company",
   "country": "CN",
   "website": "https://www.wps.cn",
@@ -13,5 +13,7 @@
     "Jsyjst"
   ],
   "logoUrl": null,
-  "established": 1988
+  "established": 1988,
+  "vendorId": null,
+  "socialLinks": null
 }

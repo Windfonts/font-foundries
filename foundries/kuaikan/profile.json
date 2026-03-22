@@ -1,7 +1,7 @@
 {
   "slug": "kuaikan",
-  "name": "快看KKDC（快看设计中心）",
-  "nameEn": "快看",
+  "name": "快看",
+  "nameEn": "Kuaikan KKDC",
   "type": "company",
   "country": "CN",
   "website": "https://www.kuaikanmanhua.com",
@@ -13,5 +13,7 @@
     "Kksjt"
   ],
   "logoUrl": null,
-  "established": 2014
+  "established": 2014,
+  "vendorId": null,
+  "socialLinks": null
 }

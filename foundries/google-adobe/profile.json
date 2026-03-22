@@ -1,7 +1,7 @@
 {
   "slug": "google-adobe",
-  "name": "Google Fonts / Adobe Fonts",
-  "nameEn": "谷歌+奥多比（Noto CJK）",
+  "name": "谷歌+奥多比（Noto CJK）",
+  "nameEn": "Google + Adobe (Noto CJK)",
   "type": "company",
   "country": "US",
   "website": "https://www.google.com/get/noto/",
@@ -13,5 +13,7 @@
     "Cjkfqlt"
   ],
   "logoUrl": null,
-  "established": 2014
+  "established": 2014,
+  "vendorId": null,
+  "socialLinks": null
 }

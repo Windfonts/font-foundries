@@ -1,7 +1,7 @@
 {
   "slug": "baotu",
-  "name": "上海包图网络科技有限公司",
-  "nameEn": "包图网",
+  "name": "包图网",
+  "nameEn": "Baotu (ibaotu)",
   "type": "company",
   "country": "CN",
   "website": "https://ibaotu.com/",
@@ -13,5 +13,7 @@
     "Btxbt"
   ],
   "logoUrl": null,
-  "established": 2016
+  "established": 2016,
+  "vendorId": null,
+  "socialLinks": null
 }

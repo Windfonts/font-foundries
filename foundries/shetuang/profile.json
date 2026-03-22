@@ -1,7 +1,7 @@
 {
   "slug": "shetuang",
   "name": "摄图网",
-  "nameEn": "摄图网",
+  "nameEn": "699pic / Shetuang",
   "type": "company",
   "country": "CN",
   "website": "https://699pic.com",
@@ -13,5 +13,7 @@
     "Symdxft"
   ],
   "logoUrl": null,
-  "established": null
+  "established": null,
+  "vendorId": null,
+  "socialLinks": null
 }

@@ -1,7 +1,7 @@
 {
   "slug": "fontree",
-  "name": "fontree",
-  "nameEn": "字由",
+  "name": "字由",
+  "nameEn": "HelloFont / Fontree",
   "type": "company",
   "country": "CN",
   "website": "https://www.hellofont.cn",
@@ -13,5 +13,7 @@
     "Jxzk"
   ],
   "logoUrl": null,
-  "established": null
+  "established": null,
+  "vendorId": null,
+  "socialLinks": null
 }

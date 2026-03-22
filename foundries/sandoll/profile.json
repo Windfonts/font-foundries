@@ -1,7 +1,7 @@
 {
   "slug": "sandoll",
-  "name": "Sandoll Inc.",
-  "nameEn": "山돌（桑德尔）",
+  "name": "山돌（桑德尔）",
+  "nameEn": "Sandoll Inc.",
   "type": "company",
   "country": "KR",
   "website": "https://www.sandoll.co.kr",
@@ -13,5 +13,7 @@
     "Ibmps"
   ],
   "logoUrl": null,
-  "established": 1984
+  "established": 1984,
+  "vendorId": null,
+  "socialLinks": null
 }

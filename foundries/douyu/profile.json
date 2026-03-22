@@ -1,7 +1,7 @@
 {
   "slug": "douyu",
-  "name": "斗鱼武汉研发部UED/品牌组",
-  "nameEn": "斗鱼",
+  "name": "斗鱼",
+  "nameEn": "DouYu",
   "type": "company",
   "country": "CN",
   "website": "https://www.douyu.com",
@@ -13,5 +13,7 @@
     "Dyzgt"
   ],
   "logoUrl": null,
-  "established": 2014
+  "established": 2014,
+  "vendorId": null,
+  "socialLinks": null
 }

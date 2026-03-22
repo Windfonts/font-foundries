@@ -1,7 +1,7 @@
 {
   "slug": "zihun",
-  "name": "Shanghai ZiHun Network Technology Co.,Ltd.",
-  "nameEn": "字魂",
+  "name": "字魂",
+  "nameEn": "ZiHun",
   "type": "company",
   "country": "CN",
   "website": "https://izihun.com/",
@@ -13,5 +13,7 @@
     "Zhbtt"
   ],
   "logoUrl": null,
-  "established": 2018
+  "established": 2018,
+  "vendorId": null,
+  "socialLinks": null
 }

@@ -1,8 +1,8 @@
 {
   "slug": "wenquanyi",
-  "name": "WenQuanYi (文泉驿)",
-  "nameEn": "文泉驿",
-  "type": "company",
+  "name": "文泉驿",
+  "nameEn": "WenQuanYi",
+  "type": "collective",
   "country": "CN",
   "website": "http://wenq.org",
   "licensePolicyUrl": "http://wenq.org/index.cgi?FontGuide",
@@ -14,5 +14,7 @@
     "Wqyzh"
   ],
   "logoUrl": null,
-  "established": 2004
+  "established": 2004,
+  "vendorId": null,
+  "socialLinks": null
 }

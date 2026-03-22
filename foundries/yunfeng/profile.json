@@ -1,8 +1,8 @@
 {
   "slug": "yunfeng",
   "name": "云峰字库",
-  "nameEn": "云峰字库",
-  "type": "company",
+  "nameEn": "Yunfeng Font Library",
+  "type": "individual",
   "country": "CN",
   "website": null,
   "licensePolicyUrl": null,
@@ -14,5 +14,7 @@
     "Yffyt"
   ],
   "logoUrl": null,
-  "established": null
+  "established": null,
+  "vendorId": null,
+  "socialLinks": null
 }

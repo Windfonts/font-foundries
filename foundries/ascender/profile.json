@@ -1,7 +1,7 @@
 {
   "slug": "ascender",
-  "name": "Ascender Corporation",
-  "nameEn": "Ascender公司",
+  "name": "Ascender公司",
+  "nameEn": "Ascender Corp",
   "type": "company",
   "country": "US",
   "website": "https://www.ascendercorp.com",
@@ -15,5 +15,7 @@
     "Wqywmh"
   ],
   "logoUrl": null,
-  "established": 2004
+  "established": 2004,
+  "vendorId": null,
+  "socialLinks": null
 }

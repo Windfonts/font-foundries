@@ -1,8 +1,8 @@
 {
   "slug": "pangmenzhengdao",
   "name": "庞门正道",
-  "nameEn": "庞门正道",
-  "type": "company",
+  "nameEn": "PangMenZhengDao",
+  "type": "studio",
   "country": "CN",
   "website": "https://www.zcool.com.cn/u/327182",
   "licensePolicyUrl": null,
@@ -16,5 +16,7 @@
     "Pmzdzgkt"
   ],
   "logoUrl": null,
-  "established": null
+  "established": null,
+  "vendorId": null,
+  "socialLinks": null
 }

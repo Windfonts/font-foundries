@@ -1,8 +1,8 @@
 {
   "slug": "pinru",
-  "name": "品如设计",
-  "nameEn": "品如",
-  "type": "company",
+  "name": "品如",
+  "nameEn": "Pinru",
+  "type": "individual",
   "country": "CN",
   "website": null,
   "licensePolicyUrl": "https://www.maoken.com/freefonts/2930.html",
@@ -13,5 +13,7 @@
     "Prsxt"
   ],
   "logoUrl": null,
-  "established": null
+  "established": null,
+  "vendorId": null,
+  "socialLinks": null
 }
