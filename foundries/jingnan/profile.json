@@ -10,7 +10,9 @@
   "description": "独立字体设计师/工作室，相关公开信息极少，未在主流免费商用字体平台中找到明确收录记录。",
   "defaultLicenseType": "联系授权",
   "fonts": [
-    "Jnymt"
+    "Jnymt",
+    "Jnmy",
+    "Jnbbh"
   ],
   "logoUrl": null,
   "established": null
