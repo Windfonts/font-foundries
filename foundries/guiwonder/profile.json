@@ -1,0 +1,27 @@
+{
+  "slug": "guiwonder",
+  "name": "GuiWonder",
+  "nameEn": "GuiWonder",
+  "type": "individual",
+  "country": "CN",
+  "website": "https://github.com/GuiWonder",
+  "licensePolicyUrl": null,
+  "contactEmail": null,
+  "description": "传承字形（旧字形）字体作者，著有尙古系列（黑/圆/等宽/明）、合简字体、华英明朝、上元明朝、月星楷等。库内早期经中文网字计划渠道收录。",
+  "defaultLicenseType": "免费商用",
+  "fonts": [
+    "月星楷",
+    "尚古明体",
+    "尚古黑体",
+    "尚古圆体",
+    "尚古等宽",
+    "合简宋体",
+    "合简黑体",
+    "华英明朝",
+    "上元明朝 A",
+    "上元明朝 B",
+    "初夏明朝体"
+  ],
+  "logoUrl": null,
+  "established": 2022
+}
