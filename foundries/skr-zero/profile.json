@@ -1,0 +1,19 @@
+{
+  "slug": "skr-zero",
+  "name": "Skr-ZERO",
+  "nameEn": "Skr-ZERO",
+  "type": "individual",
+  "country": "CN",
+  "website": "https://github.com/Skr-ZERO",
+  "licensePolicyUrl": null,
+  "contactEmail": null,
+  "description": "玄冬楷书、飞花宋体作者。",
+  "defaultLicenseType": "免费商用",
+  "fonts": [
+    "玄冬楷书",
+    "飞花宋体",
+    "猫啃什锦黑 繁体"
+  ],
+  "logoUrl": null,
+  "established": 2020
+}

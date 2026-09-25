@@ -1,0 +1,21 @@
+{
+  "slug": "astro-2539",
+  "name": "Z Labs (Astro-2539)",
+  "nameEn": "Astro-2539",
+  "type": "individual",
+  "country": "CN",
+  "website": "https://github.com/Astro-2539",
+  "licensePolicyUrl": null,
+  "contactEmail": null,
+  "description": "Z Labs 像素字体系列作者。",
+  "defaultLicenseType": "免费商用",
+  "fonts": [
+    "Z Labs 像素 12px",
+    "Z Labs 圆像素 16px",
+    "Z Labs 圆像素 12px",
+    "Z Labs 点阵 港标",
+    "Z Labs 点阵 日标"
+  ],
+  "logoUrl": null,
+  "established": 2020
+}

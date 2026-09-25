@@ -1,0 +1,21 @@
+{
+  "slug": "scott0107000",
+  "name": "字言字语 (scott0107000)",
+  "nameEn": "scott0107000",
+  "type": "individual",
+  "country": "CN",
+  "website": "https://github.com/scott0107000",
+  "licensePolicyUrl": null,
+  "contactEmail": null,
+  "description": "精品点阵体系列、夜照飞点阵、天王星像素作者。",
+  "defaultLicenseType": "免费商用",
+  "fonts": [
+    "精品点阵体9x9",
+    "精品点阵体7x7",
+    "流行点阵体16",
+    "夜照飞点阵",
+    "天王星像素"
+  ],
+  "logoUrl": null,
+  "established": 2020
+}

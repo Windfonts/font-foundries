@@ -1,0 +1,17 @@
+{
+  "slug": "kalooos0",
+  "name": "Kalooos0",
+  "nameEn": "Kalooos0",
+  "type": "individual",
+  "country": "CN",
+  "website": "https://github.com/Kalooos0",
+  "licensePolicyUrl": null,
+  "contactEmail": null,
+  "description": "Kalo 黑体作者。",
+  "defaultLicenseType": "免费商用",
+  "fonts": [
+    "Kalo 黑体"
+  ],
+  "logoUrl": null,
+  "established": 2020
+}
