@@ -1,0 +1,20 @@
+{
+  "slug": "wixette",
+  "name": "wixette",
+  "nameEn": "wixette",
+  "type": "individual",
+  "country": "CN",
+  "website": "https://github.com/wixette/dotted-chinese-fonts",
+  "licensePolicyUrl": null,
+  "contactEmail": null,
+  "description": "点点像素（Dotted Chinese Pixel Fonts）作者。文泉驿点阵宋体矢量化变形重制，22,000+ 字形覆盖全 GBK，GPL-2.0。",
+  "defaultLicenseType": "免费商用",
+  "fonts": [
+    "点点像素体-圆形",
+    "点点像素圆体",
+    "点点像素宋体菱形",
+    "点阵像素宋体 常规体"
+  ],
+  "logoUrl": null,
+  "established": 2020
+}
