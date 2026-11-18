@@ -10,11 +10,11 @@
   "description": "精品点阵体系列、夜照飞点阵、天王星像素作者。",
   "defaultLicenseType": "免费商用",
   "fonts": [
-    "精品点阵体9x9",
-    "精品点阵体7x7",
-    "流行点阵体16",
-    "夜照飞点阵",
-    "天王星像素"
+    "jpdzt9x9",
+    "jpdzt7x7",
+    "lxdzt16",
+    "yzfdz",
+    "twxxs"
   ],
   "logoUrl": null,
   "established": 2020

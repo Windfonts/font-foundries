@@ -10,8 +10,8 @@
   "description": "2004年由房骞骞发起的开源中文字体项目，旨在为CJK字符创建高质量开源字体，产品已被Ubuntu、Fedora等主流Linux发行版收录。",
   "defaultLicenseType": "免费商用",
   "fonts": [
-    "Wqydkzh",
-    "Wqyzh"
+    "wqyzhdk",
+    "wqyzht"
   ],
   "logoUrl": null,
   "established": 2004,

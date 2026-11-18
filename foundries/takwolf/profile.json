@@ -10,14 +10,14 @@
   "description": "像素字体作者：方舟/缝合/果冻/怀旧像素系列，MIT 开源。",
   "defaultLicenseType": "免费商用",
   "fonts": [
-    "方舟像素",
-    "缝合像素",
-    "果冻像素",
-    "怀旧像素 街机",
-    "怀旧像素 可爱",
-    "怀旧像素 小巧",
-    "怀旧像素 粗体",
-    "二维码像素"
+    "fzxs10",
+    "fhxs10",
+    "gdxs12",
+    "hjxsjj",
+    "hjxskw",
+    "hjxsxq",
+    "hjxsct",
+    "ewmxs"
   ],
   "logoUrl": null,
   "established": 2020

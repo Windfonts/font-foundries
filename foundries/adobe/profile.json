@@ -10,11 +10,11 @@
   "description": "全球领先的创意软件公司，与Google合作开发思源黑体/宋体（Source Han Sans/Serif），采用SIL OFL开源协议，是CJK字体领域最重要的贡献者之一。",
   "defaultLicenseType": "免费商用",
   "fonts": [
-    "Light",
-    "Mspyt",
-    "Syhtcjk",
-    "Systcn",
-    "Yjmct"
+    "systcnl",
+    "myst",
+    "syhtr",
+    "systcn",
+    "yjmc"
   ],
   "logoUrl": null,
   "established": 1982,

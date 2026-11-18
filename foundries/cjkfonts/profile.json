@@ -10,7 +10,7 @@
   "description": "CJK字体社区项目，利用深度学习AI技术智能造字，代表作cjkFonts全濑体基于濑户字体衍生，提供Web Font云端字型服务。",
   "defaultLicenseType": "免费商用",
   "fonts": [
-    "Sft"
+    "sftb"
   ],
   "logoUrl": null,
   "established": null,

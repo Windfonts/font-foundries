@@ -43,7 +43,7 @@ index.json             # 所有厂商索引
 | 谷歌+奥多比（Noto CJK） | google-adobe | company |
 | 霞鹜 | lxgw | individual |
 
-共 77 家 profile。`fonts[]` 里存的是 font-licenses 的 `normalizedName`；2026-10-07 迁移后部分条目仍写旧 CamelCase，属已知口径漂移（审计 #13）。
+共 77 家 profile。`fonts[]` 里存的是店面 canonical `normalized`（小写短码，与 fonts-front `data/fonts.json` 一致）；2026-11-18 已全量归一，旧 CamelCase/中文名/上游名全部解析或人工定案（审计 #13）。
 
 ## 关联仓库
 

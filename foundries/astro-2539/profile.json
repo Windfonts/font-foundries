@@ -10,11 +10,11 @@
   "description": "Z Labs 像素字体系列作者。",
   "defaultLicenseType": "免费商用",
   "fonts": [
-    "Z Labs 像素 12px",
-    "Z Labs 圆像素 16px",
-    "Z Labs 圆像素 12px",
-    "Z Labs 点阵 港标",
-    "Z Labs 点阵 日标"
+    "zlxs12",
+    "zlyxs16",
+    "zlyxs12",
+    "zldzhk",
+    "zldzjp"
   ],
   "logoUrl": null,
   "established": 2020

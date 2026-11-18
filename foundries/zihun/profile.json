@@ -10,7 +10,7 @@
   "description": "原创字体设计与授权平台，提供大量原创中文字体，支持VIP会员制和单字体授权两种商用模式。",
   "defaultLicenseType": "付费授权",
   "fonts": [
-    "Zhbtt"
+    "zhbtt"
   ],
   "logoUrl": null,
   "established": 2018,

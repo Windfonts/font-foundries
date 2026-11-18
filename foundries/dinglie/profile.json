@@ -10,8 +10,8 @@
   "description": "独立字体设计师，相关信息极少，未在主流免费商用字体列表中出现，未找到官网或公开授权声明。",
   "defaultLicenseType": "联系授权",
   "fonts": [
-    "Dlkjt",
-    "Dlzht"
+    "dlkjt",
+    "dlzht"
   ],
   "logoUrl": null,
   "established": null

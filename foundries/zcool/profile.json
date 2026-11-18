@@ -10,8 +10,8 @@
   "description": "中国最大的设计师社区平台，自2014年起发起公益造字活动，推出多款免费商用字体（站酷系列），同时提供付费字体授权服务。",
   "defaultLicenseType": "免费商用",
   "fonts": [
-    "Zkgdht",
-    "Zkwyt"
+    "zkgdh",
+    "zkwyt"
   ],
   "logoUrl": null,
   "established": 2006,

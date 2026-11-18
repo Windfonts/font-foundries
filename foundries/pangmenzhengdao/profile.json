@@ -10,10 +10,10 @@
   "description": "由设计师庞少棠发起的设计工作室，联合13位设计师耗资超10万元研发庞门正道标题体，下载量超300万次，系列字体均免费商用。",
   "defaultLicenseType": "免费商用",
   "fonts": [
-    "Pmzdbtt",
-    "Pmzdcsd",
-    "Pmzdqst",
-    "Pmzdzgkt"
+    "pmzdbtt",
+    "pmzdcst",
+    "pmzdqst",
+    "pmzdzgkt"
   ],
   "logoUrl": null,
   "established": null,

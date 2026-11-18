@@ -10,9 +10,9 @@
   "description": "I.字坊（I.Font Project）是台湾开源字体项目，致力于传承字形标准化，代表作品为一点明体（I.Ming），采用IPA开源字体授权。",
   "defaultLicenseType": "免费商用",
   "fonts": [
-    "Klsyt",
-    "Kslgbht",
-    "Kslyt"
+    "inkslyt",
+    "gbhb",
+    "ydmt"
   ],
   "logoUrl": null,
   "established": null,

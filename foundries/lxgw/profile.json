@@ -10,7 +10,7 @@
   "description": "独立字体开发者，基于日文开源字体衍生制作多款高质量中文字体，代表作霞鹜文楷（LXGW WenKai）在GitHub获23000+星，是最受欢迎的开源中文字体之一。",
   "defaultLicenseType": "免费商用",
   "fonts": [
-    "Xwxxh"
+    "xwxxh"
   ],
   "logoUrl": null,
   "established": 2021,

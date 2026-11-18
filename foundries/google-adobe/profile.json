@@ -10,7 +10,7 @@
   "description": "Google与Adobe联合开发的Noto CJK字体项目，即思源黑体/宋体的Google版本，目标是消除所有语言中的豆腐块（缺字），采用SIL OFL开源协议。",
   "defaultLicenseType": "免费商用",
   "fonts": [
-    "Cjkfqlt"
+    "cjkfqlt"
   ],
   "logoUrl": null,
   "established": 2014,

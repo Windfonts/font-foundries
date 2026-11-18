@@ -10,7 +10,7 @@
   "description": "在线平面设计平台，提供模板、字体、素材等设计工具，会员可获得字体商用授权。主打'会打字就能做设计'。",
   "defaultLicenseType": "付费授权",
   "fonts": [
-    "Cktjgt"
+    "cktjgt"
   ],
   "logoUrl": null,
   "established": 2014,

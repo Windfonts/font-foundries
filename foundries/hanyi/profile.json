@@ -10,10 +10,10 @@
   "description": "成立于1993年，致力于提供以字体为中心的全类别场景服务，已推出上千款中西文字体，涵盖书法、美术、黑体、宋体等多种风格，并开发多款明星手写字体。",
   "defaultLicenseType": "付费授权",
   "fonts": [
-    "Alhyznht",
-    "Ddjbt",
-    "Misa",
-    "Opsa"
+    "alhyznht",
+    "ddjbt",
+    "misa",
+    "opsa"
   ],
   "logoUrl": null,
   "established": 1993,

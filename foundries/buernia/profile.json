@@ -10,8 +10,8 @@
   "description": "独立字体作者。煮豆黑体（Noto 系中日韩标点符号）、铁蒺藜体（Reggae One 中文扩展）作者。",
   "defaultLicenseType": "免费商用",
   "fonts": [
-    "煮豆黑体",
-    "铁蒺藜体"
+    "zdht",
+    "tjlt"
   ],
   "logoUrl": null,
   "established": 2022

@@ -10,7 +10,7 @@
   "description": "Unifoundry是GNU Unifont项目的维护组织，GNU Unifont是覆盖Unicode基本多文种平面所有字符的位图字体，采用GPL+字体例外授权，免费商用。",
   "defaultLicenseType": "免费商用",
   "fonts": [
-    "Unfdzh"
+    "gnuuf"
   ],
   "logoUrl": null,
   "established": 1998,

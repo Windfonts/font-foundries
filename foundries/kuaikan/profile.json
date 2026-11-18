@@ -10,7 +10,7 @@
   "description": "快看（快看漫画）是中国领先的漫画平台，其设计中心KKDC推出快看世界体，融入ACGN文化元素，年轻潮流风格，免费授权全社会商用。",
   "defaultLicenseType": "免费商用",
   "fonts": [
-    "Kksjt"
+    "kksjt"
   ],
   "logoUrl": null,
   "established": 2014,

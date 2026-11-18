@@ -10,7 +10,7 @@
   "description": "Welai是未来荧黑（Glow Sans）字体项目，基于思源黑体衍生的CJK字体家族，支持简繁中文和日文，采用SIL OFL 1.1开源授权，免费商用。",
   "defaultLicenseType": "免费商用",
   "fonts": [
-    "Hckht"
+    "hckht"
   ],
   "logoUrl": null,
   "established": null,

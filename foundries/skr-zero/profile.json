@@ -10,9 +10,9 @@
   "description": "玄冬楷书、飞花宋体作者。",
   "defaultLicenseType": "免费商用",
   "fonts": [
-    "玄冬楷书",
-    "飞花宋体",
-    "猫啃什锦黑 繁体"
+    "xdks",
+    "fhst",
+    "mksjhtc"
   ],
   "logoUrl": null,
   "established": 2020

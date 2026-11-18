@@ -10,7 +10,7 @@
   "description": "韩国领先的字体设计公司，1984年成立，以设计Malgun Gothic（微软）、Nanum（Naver）、Apple SD Gothic Neo（苹果）等知名字体闻名，提供字体订阅、品牌定制等服务。",
   "defaultLicenseType": "付费授权",
   "fonts": [
-    "Ibmps"
+    "ibmps"
   ],
   "logoUrl": null,
   "established": 1984,
